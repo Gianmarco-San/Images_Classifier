@@ -3,9 +3,9 @@ In this project I used MPLs and CNNs to recognize color images from the CIFAR-10
 The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class, and every image is made by 3 channels (R,G,B) with 32 x 32 pixels.
 
 Dataset is splitted into train, validation and test sets as follow:
-• Elements in Train set: 48000
-• Elements in Valid set: 2000
-• Elements in Test set: 10000
+<br>• Elements in Train set: 48000
+<br>• Elements in Valid set: 2000
+<br>• Elements in Test set: 10000
 
 First attempt to images-recogntion with MultiLayerPerceptron (MLP), as a baseline.
 A simple MLP with decreasing size of fully connected hidden layers.
