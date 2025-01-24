@@ -1,2 +1,1 @@
-Here I'm just sharing some of my works - ONGOING
-<br>In this repo you can see a DL project made during my last Master.
+In this project I used MPLs and CNNs to recognize color images.
