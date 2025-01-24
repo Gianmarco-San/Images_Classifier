@@ -1,6 +1,6 @@
 In this project I used MPLs and CNNs to recognize color images from the CIFAR-10 Dataset.
 
-The CIFAR-10 dataset consists of 60000 32x32 colour images in 10 classes, with 6000 images per class, and every image is made by 3 channels (R,G,B) with 32 x 32 pixels.
+The CIFAR-10 dataset consists of 60000 colour images in 10 classes, with 6000 images per class, and every image is made by 3 channels (R,G,B) with 32 x 32 pixels.
 
 Dataset is splitted into train, validation and test sets as follow:
 <br>• Elements in Train set: 48000
